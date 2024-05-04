@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Study React
+          React
         </a>
         <a
           href="https://www.google.co.jp/"
